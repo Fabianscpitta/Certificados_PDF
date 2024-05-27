@@ -1,0 +1,45 @@
+.pdf{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.titulopdf{
+    font-size: 20px;
+}
+.imgjavepdf{
+    width: 300px;
+    margin-top: -40px;
+    margin-left: -50px;
+}
+.Consecutivo{
+    font-size: 12px;
+    margin-left: 410px;   
+}
+.Programa{
+    font-size: 17px;
+}
+.imgfirma{
+    width: 150px;
+}
+
+.nombrefirma2{
+    margin-top: -20px;
+}
+.textobajo{
+    font-size: 13px;
+}
+.direccion p{
+    font-size: 9px;
+    margin: 0; /* Elimina el margen para que las líneas queden bien pegadas */
+    padding: 0;
+}
+.direccion {
+    text-align: left; /* Asegura que el texto esté alineado a la izquierda */
+    margin: 0;
+    padding: 0;
+    margin-top: 25px;
+  }
+.hrje {
+    border: 1px solid black; /* Ajusta el estilo del hr según tus necesidades */
+    margin: 0; /* Elimina el margen para que quede bien pegado */
+}
+  
