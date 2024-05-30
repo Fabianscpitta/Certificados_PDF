@@ -7,7 +7,7 @@
 }
 .imgjavepdf{
     width: 300px;
-    margin-top: -40px;
+    margin-top: -5px;
     margin-left: -50px;
 }
 .Consecutivo{
@@ -36,7 +36,7 @@
     text-align: left; /* Asegura que el texto esté alineado a la izquierda */
     margin: 0;
     padding: 0;
-    margin-top: 25px;
+    margin-top: 130px;
   }
 .hrje {
     border: 1px solid black; /* Ajusta el estilo del hr según tus necesidades */
