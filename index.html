@@ -185,7 +185,13 @@
             var horaActual = document.getElementById('hora_actual').value;
             var fechaHoy = document.getElementById('fecha_hoy').value;
 
-             
+             // Verificar si algún campo está vacío
+            if (nombres === "" || tipoDocumento === "" || numeroIdentificacion === "" || sexo === "" ||
+                modalidad === "" || programa === "" || facultad === "" || intensidadHoraria === "" ||
+                consecutivo === "" || fechaInicio === "" || fechaFin === "" || horaActual === "" || fechaHoy === "") {
+                alert("Por favor complete todos los campos del formulario.");
+                return; // Detener la ejecución si algún campo está vacío
+            }
  
             var pronombre = sexo === "Femenino" ? "la" : "el";
             var pronombre2 = sexo === "Femenino" ? "identificada " : "identificado ";
