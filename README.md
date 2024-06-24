@@ -16,7 +16,9 @@ Paso a Paso
 1.descarga el contenido 
 
 
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/3e82f6ea-90c2-4fd9-865a-1cbb5bdc268d)
+![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/47a69dd1-4b84-4839-853b-d56fd5f07ab4)
+
+
 
 
 2. Descomprime la carpeta
@@ -27,7 +29,8 @@ Paso a Paso
 
    
 
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/83893065-8bd9-4279-bab6-257a36a2130f)
+ ![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/270c8ccf-4d41-4dc1-a445-f0913939ecaa)
+
 
 
 
@@ -35,16 +38,13 @@ Paso a Paso
 
    
 
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/ed0ce1b3-727e-4c23-905e-40d14b913059)
+  ![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/9db42191-3348-48ef-bb9b-6a3baafc2e58)
 
 
 
-5. Copia la carpeta PDF_APP en htdocs
+5. Copia la carpeta Certificados_PDF en htdocs
 
    
-
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/d34d3c5d-18dd-4eef-a6c8-35c9681d0d67)
-
 
 
 6.Abre el xampp
@@ -55,11 +55,16 @@ Paso a Paso
 
 
 
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/ab20c617-b0cb-4748-a47a-8da4aa8989e0)
+ ![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/50c1630e-4142-4b10-a7ab-23cf03e29404)
+
 
   
 
-8.Ingresa tu navegador y escribe: localhost/PDF_APP
+8.Ingresa tu navegador y escribe: localhost/Certificados_PDF
+
+
+
+![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/bab171da-a316-4d6c-ae6e-00f4a3ae0ae6)
 
 
 
@@ -73,12 +78,16 @@ Para modificar el codigo, debes seguir los siguientes pasos:
 
 2. Ingresa a file
 
-  ![image](https://github.com/Fabianscpitta/PDF_APP/assets/163153038/44ddb193-2887-4a76-b864-c28d5007f7b9)
+![image](https://github.com/Fabianscpitta/Certificados_PDF/assets/163153038/0bf3e7df-8bd4-4f06-af8d-3c1abb81d054)
+
+
 
 3. Dale click a open folder
 
-4. Abre la Carpeta PDF_APP
 
+4. Abre la Carpeta Certificados_PDF
+
+  
 5. Listo ya puedes modificar el codigo
 
 
